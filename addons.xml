@@ -8,7 +8,7 @@
         <provides>video executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">ptvt wizard</summary>
+    <summary lang="en">ptvtbuild wizard</summary>
     <description lang="en">9/2/17
 Actualización de complementos de PalcoTV Tunning</description>
     <platform>all</platform>
