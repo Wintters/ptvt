@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ptvt" name="PTVT" version="1.0" provider-name="PTVT">
+	<extension point="xbmc.addon.repository" name="PTVT">
+		<info compressed="false">https://raw.githubusercontent.com/Wintters/ptvt/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Wintters/ptvt/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Wintters/ptvt/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PTVT</summary>
+   		<description lang="es">Repositorio para actualizar los complementos de PalcoTV Tunning.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
