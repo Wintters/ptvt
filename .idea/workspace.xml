@@ -2,462 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06ea8767-5683-4992-8867-c8f2aa63fecd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/ligatv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/language/English/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.competitions.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ds.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/vipgoal.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/putpat.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/wide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/zerocast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/unpack95High.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/vaughnlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/greenlie.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/easter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sony_max_tv_uk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ustreamreclive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrowsports.eu.categories.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/live.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/sport1.de.playlistNames.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/tz/win.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/streamsports.me.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/lib/customConversions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/stopstream.com.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ltvn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/filmon.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.videotourney.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrowsports.ge.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/livegol.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Table Tennis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/bt_sport_europe_uk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/verlatelegratis.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/goalsarena_com.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/scrapingUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/bt_sport_uk_espn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.palcotv/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/livetv_ru.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/cricket.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/castto.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Volleyball.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/nanokodi.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_it_sport2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livesportstreams.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Plexus_Files/sopcastp2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/slplay.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/livesport.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/zengatv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/rojadirecta_unblocked.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/09stream.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/lshstream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/language/German/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/ordereddict/ordereddict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/castflash.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sgr.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/dinozap.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/streamhd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/hamariweb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/livefootballvideologo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports_f1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/stopstream.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/firstrowsports.ge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/tz/_common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/lshunter_tv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/premier_sports.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/p2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/lshunter-new.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/veetlew.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/vipgoal.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Wrestling.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/blogs/sport1.de.subcategories2.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_it_sport3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/coolsportz_de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/ordereddict/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/beta/t0mm0/common/addon.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/vipi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/argparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/yescast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/mamahd.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/bein.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/streamup.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/tvone1.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/hdfree.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/cador.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/skstream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/telefivegb.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/p2pcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Rugby.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/dimsports.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sport1.de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/castfree.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/abcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/usachannels.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/plusdepor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/telefivegb.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/rojadirecta.me.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/verdirectotv.info.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ANTacestream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/zoneinfo/rebuild.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/greatvideos.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/dinohls.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/filmon.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Racing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/p3g.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.competitions.sub.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/blogs/sport1.de.videos.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/liga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/acelive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/biggestplayer.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/castalba.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/zati.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/mamahd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ilive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/akamaistreaming.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.matchesPerRound.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/latelete.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/cador.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/pyaes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/chfix.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/dotstream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/cinestrenostv.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/favouritesManager.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/streamlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livetv.ru.videos.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/bt_sport_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ustream2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.fixturesDates.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/argparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/drench.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/p2pcast3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/lshunter.tv.days.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/downloader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/espn_uk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/livestreamnew.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/zoneinfo/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sportstream365.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.days.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/zengatv.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/yotv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/castup.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livetv.ru.streams.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Darts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/cndhls.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/gol.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrow.org.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/fileUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/kooralive.info.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/rowbalance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports_news_hq.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/cinestrenostv.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ucaster.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/laola1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/blogs/sport1.de.subcategories.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/streamlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/acestreamplexus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/slipstreamtv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/beta/t0mm0/common/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/datetimeUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/stopstream.com.events.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/tvope.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/livestreamcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/dialogs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livefootball.ws.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/acestreamp2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/slipstreamtv.co.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/micast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/tags.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/sportlemon.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/hdcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/lib/utils/argparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Badminton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/tvenganchado.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/entities/CRuleItem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/liveflash.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/vipgoal.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/bookmark_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/dimsports.eu.categories.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/p2pStreams_Files/sopcastp2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/customConversions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/bein_sports_1_france.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/rojadirecta_unblocked.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/javascriptUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/rocktv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/vipgoal.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.matchesPerDate.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/mycrickethighlights.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/mycrypt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/futbol.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/rrule.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/streamlive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/janjua.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/verdirectotv.net.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/vtrack.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/zony.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/roja.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/fstream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sharecast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livefootball.ws.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Boxing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/eq10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sportlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/mainMenu.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/youcloud.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/p2pcast2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/blogs/captain-trikot.de.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/09stream.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/shidurlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrowsports.eu.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.matches.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livesportstreams-wrapper.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/bookmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_it_sport1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/3live.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/w-sp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/sports4u.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/Flag_of_the_United_States.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/lib/utils/argaparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/rojadirecta-uk.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/oneplay.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/xppod.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/sportsCategoriesTranslation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/argaparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Plexus_Files/acestreamp2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/ilive.to-sports.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/crichd.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/s2.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/oneplay.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sopcastplexus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/showsport.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/vipbox.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.palcotv/downloadtools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/livechannels.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/iguide2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/theactionlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/inst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Plexus_Files/acelivep2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/blogs.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/zerocast.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/turbocast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/ligatv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/latelete.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/dialogs/dialogBrowser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sportstream366.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/blogs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/vercosasgratis2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/regexUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Cricket.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ustream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrow.org.categories.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.fixtures.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/streamhd.eu.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/tvtoast.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/castamp.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/yescast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/zenex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/lib/utils/decryptionUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/yocast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrowsports.eu.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ov2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/tvmsn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Handball.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/streamking.org.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/beta/t0mm0/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/verdirectotv.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/stopstream.tv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/tutele.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/bundesliga-streams.net.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/plugintools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/zoomtv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/livestreamerXBMCLocalProxy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/aliez.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/veetle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/firstrowsports_eu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/box_nation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.years.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sopcastp2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ustream3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/pyDes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/ilive.to.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/bundesligastream.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/youtube.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/dimsports.eu.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Tennis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/sportlemon.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrowsports.ge.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/04stream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Baseball.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/tz/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Cycling.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/cinestrenostv.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/webUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/akamaistreaming.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Basketball.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/british_eurosport_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/beta/t0mm0/common/net.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/hdfree.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/letontv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/dialogs/dialogInfo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/amer.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/p2pStreams_Files/acestreamp2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/vipbox-old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/American Football.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/tvone.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/w-sp.channels.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/scity.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/entities/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/goodgame.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/vercosasgratis.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/now_live_stamp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/pub.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/iguide.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/connectcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/coolkora.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/ustream.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/entities/CItemInfo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/dialogs/dialogQuestion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/lshunter.tv.streams.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.palcotv/plugintools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/at_the_races_uk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ustreamlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/ordereddict/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/beta/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.palcotv/resources/tumarcador.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/vipbox.tv.links.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/castalba.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Billiard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/xusca.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/iptvhq.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/tz/tz.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/247bay.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/livesports.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/british_eurosport.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/dialogs/dialogProgress.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/privatestream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/tpi.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/relativedelta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/streamking.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/openlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/plusdepor2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/cast4u.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/mainMenu.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/lshunter.tv.search.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/atdee.net.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/acelivep2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/shidurlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/wiziwig_tv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Football.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/blogs/sport1.de.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/dialogs/dialogError.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/mips.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/captain-trikot.de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/cricfree.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/tvenganchado.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/goalsarena.org.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/topcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/gblackstreaming.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/sawlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/entities/CList.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/verdirectotv.net.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/freelivestream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/streamify.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/decryptionUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/rutube.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/cricfire.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/pxstream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/coolkora.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/nanokodi.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Canoe Racing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrowsports.ge.categories.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/lshunter.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/firstrow.org.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/customModulesManager.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/dimsports.eu.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/directstream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/tpi.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/Modulos/espana/verdirectotv.info.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/freesport.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/bt_sport_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/sky_uk_sports1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Athletics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/hivelogic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/hdcastme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/onetv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Other.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/byetv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Ice Hockey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/station.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/shadownet.ro.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/p2pStreams_Files/acelivep2p.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/__streams.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/gtcaster.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/vcaster.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/verdirectotv.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/bein_sports_2_france.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/ezcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/vipbox.tv.events.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/entities/CListItem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/vet.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/zunoxlogo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/tzwin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/unpackstd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/customReplacements.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/sportsCategories.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.months.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/cador_Con_livestreamer_plugin.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports/Golf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/sports4u.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/addonInstaller.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/livefootballws.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/showsport-tv.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/xbmcUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.palcotv/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/dateutil/parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/tv/ibrod.tv.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/vipbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/__videos.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/Cambios/vaughnlive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/espana/verlatelegratis.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/lshunter.tv.events.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/catchers/bigcast.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livefootballvideo.com.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/dictionaries/logos.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/livetv.ru.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/mycrickethighlights_com.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/customs/liveonlinetv247.net.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/channels/campe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/highlights/livetv.ru.archive.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/modules/livesports/vipbox.tv.streams.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/resources/images/highlights2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/lib/utils/argaparse.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
     </list>
     <ignored path="ptvt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -527,8 +73,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -719,18 +265,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33916554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33916554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -749,6 +295,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
